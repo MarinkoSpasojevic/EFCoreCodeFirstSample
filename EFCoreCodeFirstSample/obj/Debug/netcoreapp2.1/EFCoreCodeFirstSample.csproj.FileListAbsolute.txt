@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.deps.json
 C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.runtimeconfig.json
 C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.runtimeconfig.dev.json
@@ -12,3 +13,19 @@ C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EF
 C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.pdb
 C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.dll
 C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.pdb
+=======
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.deps.json
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.runtimeconfig.json
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.runtimeconfig.dev.json
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.dll
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.csprojAssemblyReference.cache
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.csproj.CoreCompileInputs.cache
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.RazorAssemblyInfo.cache
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.RazorAssemblyInfo.cs
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.AssemblyInfoInputs.cache
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.AssemblyInfo.cs
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.RazorTargetAssemblyInfo.cache
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\bin\Debug\netcoreapp2.1\EFCoreCodeFirstSample.pdb
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.dll
+C:\Users\muhammed\Documents\Visual Studio 2017\Projects\EFCoreCodeFirstSample\EFCoreCodeFirstSample\obj\Debug\netcoreapp2.1\EFCoreCodeFirstSample.pdb
+>>>>>>> 8b36d19da2d59dd15ecf1226aa84353045f4e141
